@@ -1,0 +1,103 @@
+[9/6/2026 2:48 AM] SIMA: ============================================
+# قنوات beIN Sports
+# ============================================
+#EXTINF:-1 tvg-id="beINSports1.fr" group-title="Sports",beIN Sports 1 FR
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1 tvg-id="beINSports2.fr" group-title="Sports",beIN Sports 2 FR
+http://iptv.am000.tv:8000/live/add17/add17/17.ts
+#EXTINF:-1 tvg-id="beINSports3.fr" group-title="Sports",beIN Sports 3 FR
+http://iptv.am000.tv:8000/live/add17/add17/566.ts
+
+# ============================================
+# قنوات الكأس الرياضية (Alkass)
+# ============================================
+#EXTINF:-1 tvg-id="AlkassOne.qa" group-title="Sports",Alkass One HD
+http://iptv.am000.tv:8000/live/add17/add17/73.ts
+#EXTINF:-1 tvg-id="AlkassTwo.qa" group-title="Sports",Alkass Two HD
+http://iptv.am000.tv:8000/live/add17/add17/405.ts
+#EXTINF:-1 tvg-id="AlkassThree.qa" group-title="Sports",Alkass Three HD
+http://iptv.am000.tv:8000/live/add17/add17/104.ts
+#EXTINF:-1 tvg-id="AlkassFour.qa" group-title="Sports",Alkass Four HD
+http://iptv.am000.tv:8000/live/add17/add17/315.ts
+
+# ============================================
+# قنوات أبوظبي الرياضية (AD Sports)
+# ============================================
+#EXTINF:-1 tvg-id="ADSports1.ae" group-title="Sports",AD Sports 1 HD
+http://iptv.am000.tv:8000/live/add17/add17/89.ts
+#EXTINF:-1 tvg-id="ADSports2.ae" group-title="Sports",AD Sports 2 HD
+http://iptv.am000.tv:8000/live/add17/add17/114.ts
+#EXTINF:-1 tvg-id="ADSports3.ae" group-title="Sports",AD Sports 3 HD
+http://iptv.am000.tv:8000/live/add17/add17/90.ts
+
+# ============================================
+# قنوات دبي الرياضية (Dubai Sports)
+# ============================================
+#EXTINF:-1 tvg-id="DubaiSports1.ae" group-title="Sports",Dubai Sports 1 HD
+http://iptv.am000.tv:8000/live/add17/add17/648.ts
+#EXTINF:-1 tvg-id="DubaiSports3.ae" group-title="Sports",Dubai Sports 3 HD
+http://iptv.am000.tv:8000/live/add17/add17/646.ts
+#EXTINF:-1 tvg-id="DubaiSports4.ae" group-title="Sports",Dubai Sports 4 HD
+http://iptv.am000.tv:8000/live/add17/add17/647.ts
+
+# ============================================
+# قنوات رياضية عالمية متنوعة
+# ============================================
+#EXTINF:-1 tvg-id="BigTenNetwork.us" group-title="Sports",Big Ten Network HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 tvg-id="KazSport.kz" group-title="Sports",KAZSPORT HD
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1 tvg-id="CDNSports.do" group-title="Sports",CDN Sports SD
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr" group-title="Sports",Sports TV Turkey
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+# ============================================
+# قنوات beIN Sports العربية والشرق الأوسط
+# ============================================
+#EXTINF:-1 tvg-id="beINSportsNews.qa" group-title="beIN Sports Arabic",beIN Sports News HD
+https://iptv-org.github.io/iptv/channels/beINSportsNews.qa.m3u
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="beIN Sports Arabic",beIN Sports 1 HD
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="beIN Sports Arabic",beIN Sports 2 HD
+http://iptv.am000.tv:8000/live/add17/add17/17.ts
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="beIN Sports Arabic",beIN Sports 3 HD
+http://iptv.am000.tv:8000/live/add17/add17/566.ts
+
+# ============================================
+# قنوات beIN Sports الفرنسية والعالمية
+# ============================================
+#EXTINF:-1 tvg-id="beINSports1.fr" group-title="beIN Sports Global",beIN Sports 1 FR HD
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1 tvg-id="beINSports2.fr" group-title="beIN Sports Global",beIN Sports 2 FR HD
+http://iptv.am000.tv:8000/live/add17/add17/17.ts
+#EXTINF:-1 tvg-id="beINSportsMax1.fr" group-title="beIN Sports Global",beIN Sports Max 1 FR
+http://iptv.am000.tv:8000/live/add17/add17/566.ts
+[9/6/2026 2:48 AM] SIMA: # ============================================
+# المصدر العالمي لقنوات beIN (تحديث تلقائي)
+# ============================================
+#EXTINF:-1 group-title="beIN Global Stream",beIN Sports All Channels Stream
+https://iptv-org.github.io/iptv/categories/sports.m3u
+# ============================================
+# القنوات العالمية الشاملة (All Worldwide Channels)
+# ============================================
+#EXTINF:-1 group-title="Worldwide All",Worldwide Channels Stream
+https://iptv-org.github.io/iptv/index.m3u
+
+# ============================================
+# قنوات الشرق الأوسط وشمال أفريقيا (MENA Region)
+# ============================================
+#EXTINF:-1 group-title="Arabic / MENA",MENA Region Channels
+https://iptv-org.github.io/iptv/regions/mena.m3u
+
+# ============================================
+# القنوات الرياضية العالمية (Sports Channels)
+# ============================================
+#EXTINF:-1 group-title="Sports",Global Sports Channels
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+# ============================================
+# القنوات الإخبارية العالمية (News Channels)
+# ============================================
+#EXTINF:-1 group-title="News",Global News Channels
+https://iptv-org.github.io/iptv/categories/news.m3u
+Comment
