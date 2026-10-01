@@ -1,261 +1,28 @@
 #EXTM3U
-# Jebal IPTV - Cleaned Backup Playlist
+# Jebal IPTV - Legal Free Sources
 # Updated: 2026-10-01
+# Safe public-source playlist only
 
-#EXTINF:-1 tvg-id="xtream1" group-title="XTREAM ACCOUNTS",NB 1 | 2SbbCiT2A7
-http://s1.beno8kapp.it.com:8080/get.php?username=2SbbCiT2A7&password=c0eyqfwe8a&output=ts&type=m3u_plus
+#EXTINF:-1 group-title="FREE LEGAL STREAMS",Worldwide Channels
+https://iptv-org.github.io/iptv/index.m3u
 
-#EXTINF:-1 tvg-id="xtream2" group-title="XTREAM ACCOUNTS",NB 2 | AttallaZahwa
-http://s1.beno8kapp.it.com:8080/get.php?username=AttallaZahwa&password=8fnbrouc9m&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream3" group-title="XTREAM ACCOUNTS",NB 3 | SevKa
-http://s1.arabitv5.com:80/get.php?username=SevKa&password=11oyT&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream4" group-title="XTREAM ACCOUNTS",NB 4 | AhmadKholani
-http://s1.beno8kapp.it.com:8080/get.php?username=AhmadKholani&password=x74xoibwmn&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream5" group-title="XTREAM ACCOUNTS",NB 5 | YAV83mp9EE
-http://s1.beno4k.online:8080/get.php?username=YAV83mp9EE&password=bvyzjmrmq4&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream6" group-title="XTREAM ACCOUNTS",NB 6 | EdmundBlau
-http://s1.beno8kapp.it.com:8080/get.php?username=EdmundBlau&password=hcbggp2r0n&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream7" group-title="XTREAM ACCOUNTS",NB 7 | U74Iqm8yDW
-http://s1.beno8kapp.it.com:8080/get.php?username=U74Iqm8yDW&password=yzimc3nnvj&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream8" group-title="XTREAM ACCOUNTS",NB 8 | LaylaHamdo ⭐ ACTIVE
-http://s1.beno8kapp.it.com:8080/get.php?username=LaylaHamdo&password=bk22n80rzr&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream9" group-title="XTREAM ACCOUNTS",NB 9 | MohammadMajdalawi
-http://s1.beno8kapp.it.com:8080/get.php?username=MohammadMajdalawi&password=0lvophg1yd&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream10" group-title="XTREAM ACCOUNTS",NB 10 | NlWbGrmXHd
-http://s1.beno8kapp.it.com:8080/get.php?username=NlWbGrmXHd&password=04te1p7zd6&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream11" group-title="XTREAM ACCOUNTS",NB 11 | dL6DdmMRld ⭐ ACTIVE
-http://s1.beno8kapp.it.com:8080/get.php?username=dL6DdmMRld&password=sscfa532bc&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream12" group-title="XTREAM ACCOUNTS",NB 12 | 7gEbmm1yz0
-http://s1.beno8kapp.it.com:8080/get.php?username=7gEbmm1yz0&password=cddlok9gnq&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream13" group-title="XTREAM ACCOUNTS",NB 13 | Ayoubtuti
-http://s1.beno8kapp.it.com:8080/get.php?username=Ayoubtuti&password=cde123&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream14" group-title="XTREAM ACCOUNTS",NB 14 | Ahmettrabelsi
-http://s1.beno8kapp.it.com:8080/get.php?username=Ahmettrabelsi&password=261997479364&type=m3u&output=mpegts
-
-#EXTINF:-1 tvg-id="xtream15" group-title="XTREAM ACCOUNTS",NB 15 | 015218473780
-http://s1.beno8kapp.it.com:8080/get.php?username=015218473780&password=q9usbjmb9d&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream16" group-title="XTREAM ACCOUNTS",NB 16 | Yemane9solomun
-http://s1.beno8kapp.it.com:8080/get.php?username=Yemane9solomun&password=t4rs840nml&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream17" group-title="XTREAM ACCOUNTS",NB 17 | 952373619MahrMustafa ⭐ ACTIVE
-http://s1.beno8kapp.it.com:8080/get.php?username=952373619MahrMustafa&password=ml7xawjp3z&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream18" group-title="XTREAM ACCOUNTS",NB 18 | Basamalali
-http://s1.beno8kapp.it.com:8080/get.php?username=Basamalali&password=j1nbycrf0o&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream19" group-title="XTREAM ACCOUNTS",NB 19 | Magedkadir
-http://s1.beno8kapp.it.com:8080/get.php?username=Magedkadir&password=cn60rckngr&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream20" group-title="XTREAM ACCOUNTS",NB 20 | Murhafkotaini
-http://s1.beno8kapp.it.com:8080/get.php?username=Murhafkotaini&password=o5brtypn8v&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream21" group-title="XTREAM ACCOUNTS",NB 21 | Eduard1Gunnesch
-http://s1.beno8kapp.it.com:8080/get.php?username=Eduard1Gunnesch&password=162jgq04i9&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream22" group-title="XTREAM ACCOUNTS",NB 22 | AmmarAlabdah
-http://s1.beno8kapp.it.com:8080/get.php?username=AmmarAlabdah&password=6wgrt8bcem&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream23" group-title="XTREAM ACCOUNTS",NB 23 | Nooralyawer
-http://s1.beno8kapp.it.com:8080/get.php?username=Nooralyawer&password=8k99mtmk28&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream24" group-title="XTREAM ACCOUNTS",NB 24 | eINfr3aGhT
-http://s1.beno8kapp.it.com:8080/get.php?username=eINfr3aGhT&password=uim5czlt9a&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream25" group-title="XTREAM ACCOUNTS",NB 25 | ZahraKalaji
-http://s1.beno8kapp.it.com:8080/get.php?username=ZahraKalaji&password=BCD678&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream26" group-title="XTREAM ACCOUNTS",NB 26 | 01729499265
-http://s1.beno8kapp.it.com:8080/get.php?username=01729499265&password=aqis780t36&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream27" group-title="XTREAM ACCOUNTS",NB 27 | AbNasser
-http://s1.beno8kapp.it.com:8080/get.php?username=AbNasser&password=Abnh2022&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream28" group-title="XTREAM ACCOUNTS",NB 28 | David1Petermann
-http://s1.beno8kapp.it.com:8080/get.php?username=David1Petermann&password=82dda60yof&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream29" group-title="XTREAM ACCOUNTS",NB 29 | Maheralali
-http://s1.beno8kapp.it.com:8080/get.php?username=Maheralali&password=16xhfjeyn8&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream30" group-title="XTREAM ACCOUNTS",NB 30 | Mustafa
-http://s1.beno8kapp.it.com:8080/get.php?username=Mustafa&password=yhr6u4fw5o&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream31" group-title="XTREAM ACCOUNTS",NB 31 | FidaRefa3ii
-http://s1.beno8kapp.it.com:8080/get.php?username=FidaRefa3ii&password=meyxxjks2j&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream32" group-title="XTREAM ACCOUNTS",NB 32 | Husseinkhalaf
-http://s1.beno8kapp.it.com:8080/get.php?username=Husseinkhalaf&password=EFG234&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream33" group-title="XTREAM ACCOUNTS",NB 33 | OsamaMustafa
-http://s1.beno8kapp.it.com:8080/get.php?username=OsamaMustafa&password=ysrqh5icej&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream34" group-title="XTREAM ACCOUNTS",NB 34 | france3309102beno
-http://s1.beno8kapp.it.com:8080/get.php?username=france3309102beno&password=CDE234&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream35" group-title="XTREAM ACCOUNTS",NB 35 | a4307a4cc3c4 ⭐ ACTIVE
-http://s1.beno8kapp.it.com:8080/get.php?username=a4307a4cc3c4&password=CDE012&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream36" group-title="XTREAM ACCOUNTS",NB 36 | 017680709993
-http://s1.beno8kapp.it.com:8080/get.php?username=017680709993&password=mdua5j24m1&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream37" group-title="XTREAM ACCOUNTS",NB 37 | AbdAlmalekTellawi
-http://s1.beno8kapp.it.com:8080/get.php?username=AbdAlmalekTellawi&password=zttvmzl3pw&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream38" group-title="XTREAM ACCOUNTS",NB 38 | Diako9Mohammadi
-http://s1.beno8kapp.it.com:8080/get.php?username=Diako9Mohammadi&password=4u04ioqvwz&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream39" group-title="XTREAM ACCOUNTS",NB 39 | Mahmoudhammami
-http://s1.beno8kapp.it.com:8080/get.php?username=Mahmoudhammami&password=ylt7aymk2x&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream40" group-title="XTREAM ACCOUNTS",NB 40 | Ghassan
-http://s1.beno8kapp.it.com:8080/get.php?username=Ghassan&password=qc1a04zxd0&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream41" group-title="XTREAM ACCOUNTS",NB 41 | Mustafaserjea
-http://s1.beno8kapp.it.com:8080/get.php?username=Mustafaserjea&password=ergu82x8lp&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream42" group-title="XTREAM ACCOUNTS",NB 42 | KahaldAldaer ⭐ ACTIVE
-http://s1.beno8kapp.it.com:8080/get.php?username=KahaldAldaer&password=fgk21ri0bc&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream43" group-title="XTREAM ACCOUNTS",NB 43 | PTM14MvPzQ
-http://s1.beno8kapp.it.com:8080/get.php?username=PTM14MvPzQ&password=py3k2sjjbm&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream44" group-title="XTREAM ACCOUNTS",NB 44 | aboahmadhasaka
-http://s1.beno8kapp.it.com:8080/get.php?username=aboahmadhasaka&password=0dnx1on9mu&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream45" group-title="XTREAM ACCOUNTS",NB 45 | ismailmourad33
-http://s1.beno8kapp.it.com:8080/get.php?username=ismailmourad33&password=LMN123&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream46" group-title="XTREAM ACCOUNTS",NB 46 | 1LCQiTggzE
-http://s1.beno8kapp.it.com:8080/get.php?username=1LCQiTggzE&password=eydk04j29o&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream47" group-title="XTREAM ACCOUNTS",NB 47 | AbdulrahmanMaamo
-http://s1.beno8kapp.it.com:8080/get.php?username=AbdulrahmanMaamo&password=j24as1zoep&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream48" group-title="XTREAM ACCOUNTS",NB 48 | Dtcwinkel
-http://s1.beno8kapp.it.com:8080/get.php?username=Dtcwinkel&password=xxw03ptskb&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream49" group-title="XTREAM ACCOUNTS",NB 49 | MohamedEbo
-http://s1.beno8kapp.it.com:8080/get.php?username=MohamedEbo&password=8ijdrdf713&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream50" group-title="XTREAM ACCOUNTS",NB 50 | Hazemtadim
-http://s1.beno8kapp.it.com:8080/get.php?username=Hazemtadim&password=ni0wb4wnuo&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream51" group-title="XTREAM ACCOUNTS",NB 51 | N98rZ4pHY8
-http://s1.beno8kapp.it.com:8080/get.php?username=N98rZ4pHY8&password=6x56s8q0t2&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream52" group-title="XTREAM ACCOUNTS",NB 52 | anasosman
-http://s1.beno8kapp.it.com:8080/get.php?username=anasosman&password=j1vd0c87rk&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream53" group-title="XTREAM ACCOUNTS",NB 53 | Laithwelgnqad
-http://s1.beno8kapp.it.com:8080/get.php?username=Laithwelgnqad&password=3m4biwzpjo&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream54" group-title="XTREAM ACCOUNTS",NB 54 | SamerNajeeb
-http://s1.beno8kapp.it.com:8080/get.php?username=SamerNajeeb&password=fp4ry1td1l&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream55" group-title="XTREAM ACCOUNTS",NB 55 | MohamedRihawi
-http://s1.beno8kapp.it.com:8080/get.php?username=MohamedRihawi&password=pznf4i9b7e&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream56" group-title="XTREAM ACCOUNTS",NB 56 | Ahmad1410test
-http://s1.beno8kapp.it.com:8080/get.php?username=Ahmad1410test&password=xyz678&type=m3u&output=mpegts
-
-#EXTINF:-1 tvg-id="xtream58" group-title="XTREAM ACCOUNTS",NB 58 | Nehadjima
-http://s1.beno8kapp.it.com:8080/get.php?username=Nehadjima&password=ddqn0uzn4h&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream59" group-title="XTREAM ACCOUNTS",NB 59 | Tahanikolalnas
-http://s1.beno8kapp.it.com:8080/get.php?username=Tahanikolalnas&password=be4uz1jjjv&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream61" group-title="XTREAM ACCOUNTS",NB 61 | yraZc0TscU
-http://s1.beno8kapp.it.com:8080/get.php?username=yraZc0TscU&password=lhb44geuvh&output=ts&type=m3u_plus
-
-#EXTINF:-1 tvg-id="xtream62" group-title="XTREAM ACCOUNTS",NB 62 | 0b9a207ce2
-http://s1.dinoss.de/get.php?username=0b9a207ce2&password=39aa6444c9ed&type=m3u_plus&output=ts
-
-#EXTINF:-1 tvg-id="xtream63" group-title="XTREAM ACCOUNTS",NB 63 | 621eb558bc
-http://s1.dinoss.de/get.php?username=621eb558bc&password=e0cbba146205&type=m3u_plus&output=ts
-
-#EXTINF:-1 tvg-id="backup1" group-title="BACKUP SERVERS",Backup 1 | megotv.xyz
-http://megotv.xyz:80/get.php?username=mamdououh138&password=276202034aa&type=m3u&output=mpegts
-
-#EXTINF:-1 tvg-id="backup2" group-title="BACKUP SERVERS",Backup 2 | line.dndnscloud.ru
-http://line.dndnscloud.ru:80/get.php?username=8605adb5d2&password=6c4fc0f85815&type=m3u&output=mpegts
-
-#EXTINF:-1 tvg-id="backup3" group-title="BACKUP SERVERS",Backup 3 | foxbleu.org
-http://foxbleu.org:8789/get.php?username=ludovic&password=8333&type=m3u&output=mpegts
-
-#EXTINF:-1 tvg-id="backup4" group-title="BACKUP SERVERS",Backup 4 | r365mail.cloud
-http://r365mail.cloud:2103/get.php?username=enf8PguAPf&password=519335170817&type=m3u&output=mpegts
-
-#EXTINF:-1 tvg-id="sports1" group-title="SPORTS CHANNELS",beIN Sports 1 FR
-http://iptv.am000.tv:8000/live/add17/add17/16.ts
-
-#EXTINF:-1 tvg-id="sports2" group-title="SPORTS CHANNELS",beIN Sports 2 FR
-http://iptv.am000.tv:8000/live/add17/add17/17.ts
-
-#EXTINF:-1 tvg-id="sports3" group-title="SPORTS CHANNELS",beIN Sports 3 FR
-http://iptv.am000.tv:8000/live/add17/add17/566.ts
-
-#EXTINF:-1 tvg-id="alkass1" group-title="SPORTS CHANNELS",Alkass One HD
-http://iptv.am000.tv:8000/live/add17/add17/73.ts
-
-#EXTINF:-1 tvg-id="alkass2" group-title="SPORTS CHANNELS",Alkass Two HD
-http://iptv.am000.tv:8000/live/add17/add17/405.ts
-
-#EXTINF:-1 tvg-id="alkass3" group-title="SPORTS CHANNELS",Alkass Three HD
-http://iptv.am000.tv:8000/live/add17/add17/104.ts
-
-#EXTINF:-1 tvg-id="alkass4" group-title="SPORTS CHANNELS",Alkass Four HD
-http://iptv.am000.tv:8000/live/add17/add17/315.ts
-
-#EXTINF:-1 tvg-id="adsports1" group-title="SPORTS CHANNELS",AD Sports 1 HD
-http://iptv.am000.tv:8000/live/add17/add17/89.ts
-
-#EXTINF:-1 tvg-id="adsports2" group-title="SPORTS CHANNELS",AD Sports 2 HD
-http://iptv.am000.tv:8000/live/add17/add17/114.ts
-
-#EXTINF:-1 tvg-id="adsports3" group-title="SPORTS CHANNELS",AD Sports 3 HD
-http://iptv.am000.tv:8000/live/add17/add17/90.ts
-
-#EXTINF:-1 tvg-id="dubai1" group-title="SPORTS CHANNELS",Dubai Sports 1 HD
-http://iptv.am000.tv:8000/live/add17/add17/648.ts
-
-#EXTINF:-1 tvg-id="dubai3" group-title="SPORTS CHANNELS",Dubai Sports 3 HD
-http://iptv.am000.tv:8000/live/add17/add17/646.ts
-
-#EXTINF:-1 tvg-id="dubai4" group-title="SPORTS CHANNELS",Dubai Sports 4 HD
-http://iptv.am000.tv:8000/live/add17/add17/647.ts
-
-#EXTINF:-1 tvg-id="bigten" group-title="SPORTS CHANNELS",Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:-1 tvg-id="kazsport" group-title="SPORTS CHANNELS",KAZSPORT HD
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-
-#EXTINF:-1 tvg-id="cdnsports" group-title="SPORTS CHANNELS",CDN Sports SD
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sportstv" group-title="SPORTS CHANNELS",Sports TV Turkey
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-
-#EXTINF:-1 tvg-id="mena" group-title="GLOBAL STREAMS",MENA Region Channels
+#EXTINF:-1 group-title="FREE LEGAL STREAMS",MENA Channels
 https://iptv-org.github.io/iptv/regions/mena.m3u
 
-#EXTINF:-1 tvg-id="sports" group-title="GLOBAL STREAMS",Global Sports Channels
-https://iptv-org.github.io/iptv/categories/sports.m3u
-
-#EXTINF:-1 tvg-id="news" group-title="GLOBAL STREAMS",Global News Channels
+#EXTINF:-1 group-title="FREE LEGAL STREAMS",News Channels
 https://iptv-org.github.io/iptv/categories/news.m3u
 
-#EXTINF:-1 tvg-id="worldwide" group-title="GLOBAL STREAMS",Worldwide Channels Stream
-https://iptv-org.github.io/iptv/index.m3u
+#EXTINF:-1 group-title="FREE LEGAL STREAMS",Sports Channels
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="FREE LEGAL STREAMS",Free-IPTV Main
+https://freeiptv.github.io/
+
+#EXTINF:-1 group-title="FREE LEGAL STREAMS",Free-IPTV GitHub
+https://github.com/Free-IPTV
+
+#EXTINF:-1 group-title="FREE LEGAL STREAMS",NASA TV
+https://www.nasa.gov/nasalive
+
+#EXTINF:-1 group-title="FREE LEGAL STREAMS",Deutsche Welle
+https://www.dw.com/en/media-center/live-tv/s-100825
